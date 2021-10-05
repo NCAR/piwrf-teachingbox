@@ -1,12 +1,10 @@
 menu:
-  - title: Layouts
-    url: /koru-jekyll-template/pages/layouts.html
+  - title: Teaching Boxes
+    url: /pages/teaching-boxes.html
     submenu:
-      - title: Submenu Item
-        url: /koru-jekyll-template/pages/submenu.html
-  - title: Updating the Main Menu
-    url: /koru-jekyll-template/pages/main-menu.html
-  - title: Local Development
-    url: /koru-jekyll-template/pages/local-development.html
-  - title: Support
-    url: /koru-jekyll-template/pages/support.html
+      - title: Teaching Box \#1
+        url: /pages/teaching-boxes/box1.html
+  - title: About PiWRF
+    url: /pages/about.html
+  - title: FAQ
+    url: /faq.html
