@@ -3,7 +3,7 @@ menu:
     url: /piwrf-teachingbox/pages/teaching-boxes.html
     submenu:
       - title: Teaching Box \#1
-        url: /piwrf-teachingbox/pages/teaching-boxes/box1.html
+        url: /piwrf-teachingbox/pages/boxes/box1.html
   - title: About PiWRF
     url: /piwrf-teachingbox/pages/about.html
   - title: FAQ
