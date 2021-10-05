@@ -1,10 +1,10 @@
 menu:
   - title: Teaching Boxes
-    url: /piwrf-teachingboxes/pages/teaching-boxes.html
+    url: /piwrf-teachingbox/pages/teaching-boxes.html
     submenu:
       - title: Teaching Box \#1
-        url: /piwrf-teachingboxes/pages/teaching-boxes/box1.html
+        url: /piwrf-teachingbox/pages/teaching-boxes/box1.html
   - title: About PiWRF
-    url: /piwrf-teachingboxes/pages/about.html
+    url: /piwrf-teachingbox/pages/about.html
   - title: FAQ
-    url: /piwrf-teachingboxes/pages/faq.html
+    url: /piwrf-teachingbox/pages/faq.html
