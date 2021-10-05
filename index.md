@@ -1,10 +1,10 @@
 ---
 layout: frontpage
 title: Home
-banner-title: PiWRF Teaching Boxes
-banner-description: This is a custom Jekyll theme based on UCAR/NCAR's custom 'koru' design. It is built on top of the Foundation framework. This provides users and developers with responsiveness and accessibility.
-banner-button-text: Download
-banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
+banner-title: PiWRF Community Education Hub
+banner-description: PiWRF Teaching Modules provide educators the resources they need to teach and develop PiWRF modules for middle and high school Earth Science Curricula.  
+banner-button-text: FAQ & Survey
+banner-button-url: https://github.com/NCAR/piwrf-teachingboxes
 ---
 
 # PiWRF Teaching Boxes
