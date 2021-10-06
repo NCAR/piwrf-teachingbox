@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teaching Box 1
-permalink: /piwrf-teachinbox/box/1
+permalink: /piwrf-teachingbox/box/1
 ---
 
 ## Teaching Box 1
