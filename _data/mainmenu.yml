@@ -4,6 +4,10 @@ menu:
     submenu:
       - title: "Teaching Box #1"
         url: /piwrf-teachingbox/pages/boxes/box1.html
+      - title: "Teaching Box #2"
+        url: /piwrf-teachingbox/pages/boxes/box2.html
+      - title: "Teaching Box #3"
+        url: /piwrf-teachingbox/pages/boxes/box3.html
   - title: About PiWRF
     url: /piwrf-teachingbox/pages/about.html
   - title: FAQ
