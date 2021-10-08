@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Teaching Box 1
+title: Introduction: Setting Up, Running PiWRF, and Computing
 ---
 
 ## Teaching Box 1
 
-* Creator:
+* Creator: Reid Olson, University Wyoming (SIPARCS '21) and Olivia Firth
 * Date Added:
-* Github Repository:
-* Description:
-* Audience:
+* Github Repository:https://github.com/reidolson/piwrf-teachingbox
+* Description: Learn to run WRF forecast on a RaspberryPi, interpret output, and understand what is a supercomputer.
+* Audience: general, k12, college
 * Standards used:
 * Description:
-> A nice description
-* Link: [Link to JupyterBook](/piwrf-teachingbox)
+An introduction to the Pi-WRF project with a shift towards a community driven framework. This new framework provides a more accessible user interface for interacting with the weather model and modifying or developing modules. The new framework connects Jupyter Notebooks to the existing Weather Researchand Forecasting (WRF) model running on a Raspberry Pi.
+* Link: [Link to JupyterBook](https://reidolson.github.io/piwrf-teachingbox/intro.html)
