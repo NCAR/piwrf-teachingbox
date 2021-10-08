@@ -3,11 +3,11 @@ layout: default
 title: Introduction: Setting Up, Running PiWRF, and Computing
 ---
 
-## Teaching Box 1
+## Teaching Box 1: Introduction to Setting up, Running PiWRF, and Computing
 
 * Creator: Reid Olson, University Wyoming (SIPARCS '21) and Olivia Firth
 * Date Added:
-* Github Repository:https://github.com/reidolson/piwrf-teachingbox
+* Github Repository: https://github.com/reidolson/piwrf-teachingbox
 * Description: Learn to run WRF forecast on a RaspberryPi, interpret output, and understand what is a supercomputer.
 * Audience: general, k12, college
 * Standards used:
