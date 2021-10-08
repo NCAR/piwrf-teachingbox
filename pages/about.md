@@ -12,4 +12,4 @@ We are happy to be part of the 2021 HPE Exascale day on October 18th which celeb
 
 **Publications & Posters**
 
-![PiWRF 3.0 siparcs 2021 poster](https://www2.cisl.ucar.edu/sites/default/files/12_Reid_Olson.pdf)
+https://www2.cisl.ucar.edu/sites/default/files/12_Reid_Olson.pdf
