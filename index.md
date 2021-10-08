@@ -10,7 +10,7 @@ banner-button-url: https://github.com/NCAR/piwrf-teachingboxes
 
 # PiWRF Teaching Boxes
 
-| Teaching Box | Description |
-| ----------- | ----------- |
-| 1     Introduction| Setup RaspberryPi, Run Pi-WRF, and users Jupyter notebook user interface to make forecast|
-| 2     Lifecycle of a forecast| Learn about how forecasts are made and try out student excersize to test your performance versus your local news source (coming soon)|
+|   | Teaching Box | Description |
+| --| ------------ | ----------- |
+| [1](./boxes/box1) |    Introduction | Setup RaspberryPi, Run Pi-WRF, and users Jupyter notebook user interface to make forecast|
+| 2 |   Lifecycle of a forecast | Learn about how forecasts are made and try out student excersize to test your performance versus your local news source (coming soon)|
