@@ -12,4 +12,4 @@ We are happy to be part of the [2021 HPE Exascale day on October 18th](https://w
 
 **Publications & Posters**
 
-1. Olson, R.. (2021, August 11). Pi-WRF 3.0 (Version 1). figshare. [https://doi.org/10.6084/m9.figshare.15152610.v1])(https://doi.org/10.6084/m9.figshare.15152610.v1)
+1. Olson, R.. (2021, August 11). Pi-WRF 3.0 (Version 1). figshare. [https://doi.org/10.6084/m9.figshare.15152610.v1](https://doi.org/10.6084/m9.figshare.15152610.v1)
