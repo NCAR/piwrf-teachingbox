@@ -7,7 +7,7 @@ title: Introduction: Setting Up, Running PiWRF, and Computing
 
 * **Creator:** Reid Olson, University Wyoming (SIPARCS '21) and Olivia Firth
 *  **Date Added:** October 8th, 2021
-*  **Github Repository:** https://github.com/reidolson/piwrf-teachingbox
+*  **Github Repository:** [https://github.com/reidolson/piwrf-teachingbox](https://github.com/reidolson/piwrf-teachingbox)
 *  **Description:** Learn to run WRF forecast on a RaspberryPi, interpret output, and understand what is a supercomputer.
 *  **Audience:** general, k12, college
 *  **Standards used:**
