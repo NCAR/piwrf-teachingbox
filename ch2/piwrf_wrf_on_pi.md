@@ -58,19 +58,19 @@ Once you have launched the appliction, it is time to run it. The app allows you 
 
 You will see that the program is broken down into blocks of code. Hitting the Run button (shown by the red arrow in the image below), will run one block of code. This means, you will need to hit the run button multiple times to complete the program. 
 
-(insert piwrf_runbutton.png)
+![runbutton](piwrf_runbutton.png)
 
 #### 2.2 Select a start and end date, and confirm your selection.
 
 To select a start and end date, you will need to alter the code slighlty. Comments have been added to the code to guide you. As you can see in the image included below, you will uncomment (remove the # symbol) from the two lines of code show by the red arrows and alter the time in each one. 
 
-(insert piwrf_inserttime.png)
+![time](piwrf_inserttime.png)
 
 #### 2.3 Click and drag the {term}`domain` you would like to select. The map automatically zooms to your domain. If you accidentally choose a domain that is too small, then you may either zoom out or reset the domain. Once you are done, click the run model tab.
 
 To choose your domain, right click and hold on the blue pin (shown again with red arrow in the image below) and drag it to the location you would like to select. This may require that you zoom in and out on the map using the '+' and '-' buttons in the left upperhand corner of the map, before clicking and dragging the pin. 
 
-(insert piwrf_map.png)
+![map](insert piwrf_map.png)
 
 #### 2.4 Press the run model button when you are ready to run the model. After the model finishes, a button will appear to view the output. Click it to see the results of the model.
 
