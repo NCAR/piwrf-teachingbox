@@ -8,11 +8,12 @@ title: FAQ
 ## How do I run Pi-WRF Locally or as an instance?
 
 Pi-WRF can be run as an instance (where results are not saved) or on your local machine or raspberryPi. To run locally, clone or download (green button in Github repo).The instructions are shown on the PiWRF github page. By cloning the repo, users can make make changes to the jupyter notebook and even change model settings.
+The instructions can be found in the first teaching box or at https://github.com/NCAR/pi-wrf
 
 
 ## What is Github and Why are is this project primarily distributed through it?
 
-Github is a repository hosting service that helps teams and commumunity manage software development projects. Many of today's technology companies, universities, and developers use github as part of their everyday workflow. Because this PiWRF Teachingbox and PiWRF modeling project is a community developed project we have hosted it on github so that users can contribute and have access to the source code. Github has a wonderful tool page ![Github Educations] (https://education.github.com/teachers)
+Github is a repository hosting service that helps teams and commumunity manage software development projects. Many of today's technology companies, universities, and developers use github as part of their everyday workflow. Because this PiWRF Teachingbox and PiWRF modeling project is a community developed project we have hosted it on github so that users can contribute and have access to the source code. Github has a wonderful tools at https://education.github.com/teachers
 
 ## How can I contribute my own content?
 
@@ -23,11 +24,12 @@ RaspberryPi 3+ or higher, with monitor and keyboard. You will have to get a new 
 
 
 ## How do I provide feedback and ideas?
+
 If you notice technical glitches or have input on how we can improve our software you may submit an issue directly to our github page at https://github.com/NCAR/pi-wrf/issues
 
 We would also like to invite you to take our online survey by clicking the link below. Your input will help us understand how you use technology in the classroom, how we better encourage the community to contribute content to the teaching boxes, and what new
 
-#Feedback & Survey
+## Feedback & Survey
 This is a work in progress and your input and feedback will help us improve. Please take our 5 minute survey via the link below:
 
 
