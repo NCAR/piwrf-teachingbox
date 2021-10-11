@@ -12,4 +12,6 @@ We are happy to be part of the [2021 HPE Exascale day on October 18th](https://w
 
 **Publications & Posters**
 
-1. Olson, R.. (2021, August 11). Pi-WRF 3.0 (Version 1). figshare. [https://doi.org/10.6084/m9.figshare.15152610.v1](https://doi.org/10.6084/m9.figshare.15152610.v1)
+1. Foust, William (2020, Septber 2) An Informal Introduction to Numerical Weather Models with Low-Cost Hardware.  Bulletin of the American Meteorological Society. 1-18. 10.1175/BAMS-D-20-0146.1.https://doi.org/10.1175/BAMS-D-20-0146.1
+2. Foust, E. (2021). Pi-WRF instructions. doi:10.5065/sdhd-ft24
+3.  Olson, R.. (2021, August 11). Pi-WRF 3.0 (Version 1). figshare. [https://doi.org/10.6084/m9.figshare.15152610.v1](https://doi.org/10.6084/m9.figshare.15152610.v1)
