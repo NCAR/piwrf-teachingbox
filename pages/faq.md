@@ -17,7 +17,7 @@ Github is a repository hosting service that helps teams and commumunity manage s
 
 ### How can I contribute my own content?
 
-Do you have a lesson, concept, or activity that you are excited about? We are always seeking to contributions from teachers, students,and university faculty. You may email your submission to agbeli@ucar.edu or fork the repo and submit a pull request for review, feedback, and acceptance. Once your teachingbox is accepted we will add it to the PiWRF Teachingbox page and credit you. Your contribution will make it possible for other educators and students to learn about weather, computing, and modeling in creative new ways. Your contribution will be credited with name and institution added to the PiWRF website.
+Do you have a lesson, concept, or activity that you are excited about? We are always seeking for contributions from teachers, students,and university faculty. You may email your submission to agbeli@ucar.edu or fork the repo and submit a pull request for review, feedback, and acceptance. Once your teachingbox is accepted we will add it to the PiWRF Teachingbox page and credit you. Your contribution will make it possible for other educators and students to learn about weather, computing, and modeling in creative new ways. Your contribution will be credited with name and institution added to the PiWRF website.
 
 ### What hardware will I need to run Pi-WRF?
 RaspberryPi 3+ or higher, with monitor and keyboard. You will have to get a new SD card and install raspberian operating system on it. Directions for this is in the first teaching box.
