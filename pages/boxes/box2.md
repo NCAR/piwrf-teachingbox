@@ -12,7 +12,7 @@ title: My Weather Story
 *  **Audience:** middle school, high school, college.
 *  **Standards used:** Reading, Writing, MS - ESS2-5, HS - ESS2-4, MS - ESS2-6, HS - ESS3-5.
 
-## Overview
+**Overview**
 
 The objective of the lesson is to introduce students to weather forecasting and model simulation using the wrf model. Learners will make weather forecasts by running the Weather Research and Forecasting (WRF) model on a Raspberry Pi and use their outputs to answer a question that is of interest to them. At the end of the lesson, learners will be able to:
 
