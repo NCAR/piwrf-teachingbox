@@ -12,6 +12,6 @@ To contribute a learning activity, click on the form below and complete all nece
 
 **Click the button below to start a submission.**<br>
 
-<form action="#">
-    <input type="submit" value="Begin Submission" style="color:white;background-color:#2E938C; text-align:center">
+<form action="https://forms.gle/taaCkLaaykkS7HA46">
+    <input type="submit" value="Begin Submission" style="background-color:#2E938C;border-radius:10px;color:white;cursor:pointer;padding:2px;">
 </form>
