@@ -7,7 +7,7 @@ title: FAQ
 
 ### How do I run Pi-WRF Locally or as an instance?
 
-Pi-WRF can be run as an instance (where results are not saved) or on your local machine or raspberryPi. To run locally, clone or download (green button in Github repo).The instructions are shown on the PiWRF github page. By cloning the repo, users can make make changes to the jupyter notebook and even change model settings.
+Pi-WRF can be run as an instance (where results are not saved) on your local machine or on a raspberryPi. To run locally, clone or download (green button in Github repo) the NCAR/pi-wrf repository. The instructions are shown on the PiWRF github page. By cloning the repo, users can make changes to the jupyter notebook and even change model settings.
 The instructions can be found in the first teaching box or at [https://github.com/NCAR/pi-wrf](https://github.com/NCAR/pi-wrf).
 
 
