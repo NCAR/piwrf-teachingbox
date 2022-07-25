@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction: Setting Up, Running PiWRF, and Computing
+title: Introduction \: Setting Up, Running PiWRF, and Computing
 ---
 
 ## Introduction to Setting up, Running PiWRF, and Computing
@@ -11,7 +11,8 @@ title: Introduction: Setting Up, Running PiWRF, and Computing
 *  **Description:** Learn to run WRF forecast on a RaspberryPi, interpret output, and understand what is a supercomputer.
 *  **Audience:** general, k12, college
 *  **Standards used:**
-*  **Description:**
+
+**Overview**
 
 An introduction to the Pi-WRF project with a shift towards a community driven framework. This new framework provides a more accessible user interface for interacting with the weather model and modifying or developing modules. The new framework connects Jupyter Notebooks to the existing Weather Researchand Forecasting (WRF) model running on a Raspberry Pi.
 

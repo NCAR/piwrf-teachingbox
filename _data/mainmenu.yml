@@ -12,5 +12,12 @@ menu:
     url: /piwrf-teachingbox/pages/about.html
   - title: Contribute Modules
     url: /piwrf-teachingbox/pages/contribute-modules.html
+  - title: PI-WRF & NGSS
+    url: /piwrf-teachingbox/pages/pi_wrf_ngss.html
+    submenu:
+      - title: "Middle School"
+        url: /piwrf-teachingbox/pages/standards/middleschool.html
+      - title: "High School"
+        url: /piwrf-teachingbox/pages/standards/highschool.html
   - title: FAQ
     url: /piwrf-teachingbox/pages/faq.html
