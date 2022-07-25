@@ -9,6 +9,17 @@ width:250px;
 margin: auto 5px;
 text-decoration:none;
 }
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
 </style>
 
 ## Pi-WRF and NGSS
