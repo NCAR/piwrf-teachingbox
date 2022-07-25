@@ -12,7 +12,7 @@ margin: auto 5px;
 
 ## Pi-WRF and NGSS
 <br/>
-<img src="ngss_logo.png" align="right" alt="NGSS 3 Dimension Learning">
+<img src="assets/ngss_logo.png" align="right" alt="NGSS 3 Dimension Learning">
 
 
 
