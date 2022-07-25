@@ -24,7 +24,7 @@ The Pi-WRF application provides an interface that allows users to integrate and 
 
 Using Pi-WRF educators can introduce students to the concepts of weather, weather simulation and modeling, map reading, data analysis and visualization, and the communication of scientific findings.
 
-## Overview of the Next Generation Science Standards (NGSS)
+### Overview of the Next Generation Science Standards (NGSS)
 
 The Next Generation Science Standards (NGSS) are designed to set expectations for the skills and knowledge K-12 students should be able to apply across different science disciplines. NGSS adopts a research-based approach to K-12 science education that affords educators the flexibility to design learning experiences that connect science to students’ interests and their everyday experiences. 
 
@@ -51,13 +51,12 @@ The next sections provide an overview of NGSS's 3D learning approach followed by
 <br/>
 
 > **Note:**
->  
-> Since the concept and implication of weather cuts across most disciplines, we encourage educators to explore more ways that Pi-WRF can be used to achieve science standards across middle and high school grade levels.
->
-> 
+
+Since the concept and implication of weather cuts across most disciplines, we encourage educators to explore more ways that Pi-WRF can be used to achieve science standards across middle and high school grade levels.
+
 <br/>
 
-## 
+
 
 <a class="ngss_lvl" href="middle_school_ngss.html">Middle School</a>
 <a class="ngss_lvl" href="high_school_ngss.html">High School</a>
