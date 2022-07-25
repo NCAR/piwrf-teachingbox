@@ -55,9 +55,6 @@ The next sections provide an overview of NGSS's 3D learning approach followed by
 Since the concept and implication of weather cuts across most disciplines, we encourage educators to explore more ways that Pi-WRF can be used to achieve science standards across middle and high school grade levels.
 
 <br/>
-
-
-
 <a class="ngss_lvl" href="middle_school_ngss.html">Middle School</a>
 <a class="ngss_lvl" href="high_school_ngss.html">High School</a>
 
