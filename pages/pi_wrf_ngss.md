@@ -25,9 +25,6 @@ a:active { text-decoration: none; }
 ## Pi-WRF and NGSS
 <br/>
 <img src="assets/ngss_logo.png" align="right" alt="NGSS 3 Dimension Learning">
-
-
-
 The concept of weather and climate cuts across most science disciplines and this makes the Pi-WRF a natural fit for NGSS. 
 
 We emphasize the design of Pi-WRF teaching boxes around the NGSS performance expectations and 3D learning approach in order to give educators the flexibility to connect the idea of weather forecasting and exploration to students’ interest and life experiences. Designing Pi-WRF activities around this approach would develop students’ coherent understanding of the interesting and intricate relationships between the weather, climate and other science domains. 
