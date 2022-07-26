@@ -36,7 +36,7 @@
 
 </style>
 
-### Middle School (6-8)
+### Middle School (6-8) Performance Expectations
 Below are some middle school NGSS standards that can be addressed using the Pi-WRF application. The list is however not exhaustive.
 
 #### 1. MS-ESS2-5 Earth’s Systems

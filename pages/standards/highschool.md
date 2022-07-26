@@ -40,7 +40,7 @@
 Below are some high school NGSS standards that can be addressed using the Pi-WRF application. The list is however not exhaustive.
 
 
-#### HS-ESS2-2 Earth System
+#### 1. HS-ESS2-2 Earth System
 
 <p>This standard emphasizes the need for students to understand how the increase in greenhouse gases impacts rising global temperatures and how the loss of wetlands causes a decrease in local humidity. Within this performance expectation, teachers are encouraged to make explicit the impact of rising temperatures on glacial ice and help students understand how low humidity results in decrease in our available wetlands.</p>
 <p>Using Pi-WRF teachers can guide students to investigate and compare the surface temperature across regions with different amounts of greenhouse gases.</p>
@@ -114,6 +114,9 @@ Below are some high school NGSS standards that can be addressed using the Pi-WRF
 <br/>
 
 #### 3. HS-ESS3-5: Earth and Human Activity
+<p>This standard emphasizes the need for students to be able to forecast climate conditions such as glacial ice volumes and sea levels using models that account for variations in location, temperature and precipitation.</p>
+<p>Using Pi-WRF students can combine data about changing glacial ice volumes or sea levels with ideal or real weather data in order to test and examine if any relationship exists between changing weather conditions and observed changes in glacial ice volumes or sea level.</p>
+
 <table>
 <thead>
 <tr class="header">
