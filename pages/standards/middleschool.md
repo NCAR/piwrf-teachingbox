@@ -37,6 +37,8 @@
 </style>
 
 ### Middle School (6-8)
+Below are some middle school NGSS standards that can be addressed using the Pi-WRF application. The list is however not exhaustive.
+
 #### 1. MS-ESS2-5 Earth’s Systems
 
 This standard emphasizes the need for students to demonstrate an understanding of how weather (defined by temperature, pressure, humidity, precipitation, and wind) changes over time due to flow of air masses from regions of high pressure to low pressure. Learners are also expected to understand how weather can be predicted using data from the environment. 
