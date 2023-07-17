@@ -1,14 +1,47 @@
 ---
 layout: default
-title: About PiWRF
+title: About Pi-WRF
 ---
 
 ## About The Project
-The goal of this project is to develop educational modules and build a framework to facilitate further community contributed modules involving running an advanced weather model on a Raspberry Pi to make a weather forecast. This page hosts teaching modules called PiWRF Teaching Boxes that contain a series of interactive lessons centered around running the Weather Research Forecast (WRF) model on a raspberry-Pi. Users can run this software on a raspberry Pi or on their own machine.
+The goal of this project is to develop educational modules and build a 
+framework to facilitate further community contributed modules. These 
+modules involve weather forecasting by 
+running an advanced weather model on a Raspberry Pi. This page hosts 
+teaching modules, known as Pi-WRF teaching boxes, that contain a series of 
+interactive lessons. The core of these lessons is the production of 
+forecasts by running the Weather Research and 
+Forecasting 
+(WRF) model on a Raspberry Pi. Users can run this software on a Raspberry 
+Pi or on their own machine.
 
-Our goal is to facilitate a community of instructors, teachers, and faculty to create a community library of teaching boxes. This will bring the best and most creative ideas of teachers, students, and faculty from accross the world who are interested in sharing teaching tools. This site is moderated by NCAR and we will be adding modules from introductory how to set up a raspberryPi and run Pi-WRF, how to use a jupyter notebooks, to teaching boxes on meteorological concepts and computing principles such as what is parrallel computing at exascale. We would like to invite you to use these teaching boxes in your classroom, download it and modify it to create your own case studies and teaching concepts. Then share your teaching box with us so that we can include it on this website to make this a truly community driven educational resource.
+Our goal is to facilitate a community of instructors, teachers, and 
+faculty, and for that community to create a library of 
+teaching boxes that will benefit multiple scientific communities. 
+This will help facilitate the sharing of teaching tools and creative ideas 
+between teachers, students, and faculty from around the world.
+This site 
+is moderated by NCAR and we will be adding modules ranging from 
+introductory to advanced. Some of the topics covered in these modules 
+include: 
+  - How to set up a Raspberry Pi and run Pi-WRF
+  - How to use Jupyter notebooks 
+  - Meteorological concepts
+  - Computing principles such as parallel computing at exascale
+We would like to invite you to use these teaching boxes in your classroom; 
+you can also 
+download them and modify them to create your own case studies and teaching 
+concepts. Once you have created your own version of a teaching box, please 
+share it with us so that we can include it on 
+this website. This helps create truly community driven educational 
+resources.
 
-We are happy to be part of the [2021 HPE Exascale day on October 18th](https://www.hpe.com/us/en/discover-more-network/events/exascale.html) which celebrates the world of supercomputing and large scale data. Weather forecasting and modeling with tools such as WRF is a classic challenge that has faced the world of high performance computing since its inception.
+We are happy to have been a part of the [2021 HPE Exascale day on October 
+18th](https://www.hpe.com/us/en/discover-more-network/events/exascale.html), 
+which celebrates the world of supercomputing and large-scale data. Weather 
+forecasting and modeling with tools such as WRF is a classic challenge 
+that has faced the world of high-performance computing since its 
+inception.
 
 **Publications & Posters**
 

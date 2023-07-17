@@ -13,4 +13,4 @@ banner-button-url: ./pages/faq
 |   | Teaching Box | Description |
 | --| ------------ | ----------- |
 | [1](./pages/boxes/box1.html) |    Introduction | Set up Raspberry Pi and users' Jupyter notebook user interface, and run Pi-WRF, in order to make a forecast|
-| 2 |   Lifecycle of a forecast | Learn about how forecasts are made and try out student exercise to test your performance versus your local news source (coming soon)|
+| 2 |   Lifecycle of a forecast | Learn about how forecasts are made, and try out a student exercise to test your forecast performance against your local news source (coming soon)|

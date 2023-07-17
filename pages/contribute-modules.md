@@ -4,9 +4,23 @@ title: Contribute Learning Modules
 ---
 
 # Contribute Teaching Boxes
-Do you have a lesson, concept, or activity that you are excited about? We are always seeking for contributions from teachers, students, and university faculty. Our goal is to facilitate the community development and sharing of instructional modules that can be added to a community of Pi-WRF teaching modules. We encourage educators, university faculty and of course geeks, to explore exisiting Pi-WRF lessons with their learners, tinker them, and create new modules and activities that others can try out.
+Do you have a lesson, concept, or activity that you are excited about? We 
+are always seeking contributions from teachers, students, and university 
+faculty. Our goal is to facilitate community development and sharing of 
+instructional modules, which can then be added to a community of Pi-WRF 
+teaching 
+modules. We encourage exploration and modification of existing Pi-WRF 
+lessons by educators, 
+university faculty, and of course geeks. This helps create new modules and 
+activities for the greater good of the Pi-WRF community, as well as the 
+scientific community in general.
 
-To contribute a learning activity, click on the form below and complete all necessary fields. Once your submission is received, it will be reviewed by our team. You will be notified via email when your teaching box is accepted and published on the website. 
+To contribute a learning activity, click on the button below, then 
+complete 
+all 
+necessary fields in the Google form. Once your submission is 
+received, it will be reviewed 
+by our team. You will be notified via email when your teaching box is accepted and published on the website. 
 
 **Click the button below to start a submission.**<br>
 

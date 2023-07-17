@@ -14,7 +14,10 @@ title: My Weather Story
 
 **Overview**
 
-The objective of the lesson is to introduce students to weather forecasting and model simulation using the wrf model. Learners will make weather forecasts by running the Weather Research and Forecasting (WRF) model on a Raspberry Pi and use their outputs to answer a question that is of interest to them. At the end of the lesson, learners will be able to:
+The objective of the lesson is to introduce students to weather 
+forecasting and model simulation using the WRF model. Learners will make 
+weather forecasts by running the Weather Research and Forecasting (WRF) 
+model on a Raspberry Pi, and use their outputs to answer a question that is of interest to them. At the end of the lesson, learners will be able to:
 
 1.  use weather datasets and the WRF model to answer real world questions.
 
