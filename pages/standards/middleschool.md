@@ -68,7 +68,7 @@ and maps.
         <tr class="header">
         <th colspan="3"><p><strong>Performance Expectation</strong></p>
         <p>Students can collect data to provide evidence for how the motions and interactions of air masses result in changes in weather conditions.</p>
-        <p><em>This standards is composed of the following NGSS 3-D 
+        <p><em>This standard is composed of the following NGSS 3-D 
 components</em></p></th>
         </tr>
     </thead>
@@ -220,9 +220,10 @@ region to region, as well as over time.</p></td>
 <p>This standard emphasizes the need for students to understand the impact 
 of anthropogenic (human-caused) climate change. 
 By collecting data on anthropogenic climate change, students can learn 
-how many typical human activities (such as fossil fuel combustion, cement 
+the connection between many typical human activities (such as 
+fossil fuel combustion, cement 
 production, and 
-agricultural activity) can lead to a rise in global and regional 
+agricultural activity) and increases in global and regional 
 temperature.</p>
 <p>Using Pi-WRF, students can collect climate change data by investigating 
 temperature differences across 

@@ -28,6 +28,7 @@ include:
   - How to use Jupyter notebooks 
   - Meteorological concepts
   - Computing principles such as parallel computing at exascale
+
 We would like to invite you to use these teaching boxes in your classroom; 
 you can also 
 download them and modify them to create your own case studies and teaching 

@@ -16,8 +16,7 @@ and even change model settings.
 The instructions can be found in the first teaching box or at [https://github.com/NCAR/pi-wrf](https://github.com/NCAR/pi-wrf).
 
 
-### What is GitHub and why is this project primarily distributed through 
-it?
+### What is GitHub and why is this project primarily distributed through it?
 
 GitHub is a repository-hosting service that helps teams and the community 
 manage software development projects. Many of today's technology 
@@ -67,4 +66,5 @@ content to the teaching boxes.
 ### Feedback & Survey
 This is a work in progress and your input and feedback will help us 
 improve. Please take our 5-minute survey via the link below:
+
 [https://docs.google.com/forms/d/1ixjSAuqnlQagKq5orXLBl_AYkNDc-aidceDA89xioBI/](https://docs.google.com/forms/d/1ixjSAuqnlQagKq5orXLBl_AYkNDc-aidceDA89xioBI/)
