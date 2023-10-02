@@ -25,82 +25,121 @@ a:active { text-decoration: none; }
 ## Pi-WRF and NGSS
 <br/>
 <img src="assets/ngss_logo.png" align="right" alt="NGSS 3 Dimension Learning">
-The concept of weather and climate cuts across most science disciplines; 
-this makes Pi-WRF a natural fit for NGSS. 
+The Next-Generation Science Standards (NGSS) cover many different science 
+disciplines. (More information on NGSS can be found below.) The concepts 
+of weather and climate cut across most science disciplines, and Pi-WRF is 
+used to teach weather and climate concepts. Therefore, the Pi-WRF team 
+uses standards from NGSS to ensure that learners have a firm grasp of 
+important science concepts.
 
-Pi-WRF is very proud to build our teaching boxes around the NGSS 
-performance expectations and 3-D learning approach. This approach gives 
-educators the flexibility to connect the idea of weather forecasting and 
-exploration to students’ interest and life experiences. As you 
-may know, there are many 
-interesting and intricate relationships between the weather, climate and 
-other science domains. The Pi-WRF teaching boxes, as well as other Pi-WRF 
-activities, are designed around the learning approach, which develops 
-students' coherent understanding of these relationships.
+The NGSS performance expectations and 3-D learning approach help educators 
+teach key science concepts more easily. Therefore, the Pi-WRF team is very 
+proud to build the Pi-WRF teaching boxes with these standards in mind. 
+By using this NGSS approach, Pi-WRF allows educators the flexibility to 
+creatively connect students' interests and life experiences to the 
+important concepts of weather forecasting and exploration. It is important 
+for both educators and students to understand the complex relationships 
+between the weather and climate domains and other science domains. By 
+using the Pi-WRF teaching boxes, other Pi-WRF activities, and the NGSS 
+learning approach, educators can help students develop a coherent 
+understanding of these relationships.
 
-One of the main features of the Pi-WRF application is an interface 
-that allows for integration 
-and analysis of weather data, alongside other environmental data such as 
-the 
-amount of greenhouse gases in the atmosphere. While the application 
-provides 
-real and ideal weather data that teachers can use to analyze and answer 
-several questions, it also includes libraries that support the analysis of 
-structured data that exist in csv, xlsx, netcdf, and other tabular forms. 
-As such, educators can collect data about different events related to 
-weather, and then analyze them, either independently or in conjunction 
-with 
-weather data using Pi-WRF.
+A key feature of the Pi-WRF application is an interface for analyzing 
+data, and for integrating different types of data. Some of the types of 
+data that Pi-WRF can easily integrate are weather data, climate data, and 
+environmental data such as data on greenhouse gas saturation. Teachers can 
+make use of the real and ideal weather data provided by Pi-WRF to analyze 
+various data and answer scientific questions. However, this is not the 
+extent of Pi-WRF's analysis capability; notably, it also contains 
+libraries for analysis of tabular data. (Examples of tabular data formats 
+are csv, xlsx, and netcdf.) These features of Pi-WRF allow educators to 
+easily collect data about different weather-related events, and to analyze 
+these data, either independently or in conjunction with weather data.
 
-Using Pi-WRF, educators can introduce students to the concepts of weather, 
-weather simulation/modeling, map reading, data analysis/visualization, 
-and communication of scientific findings.
+By using Pi-WRF, educators can introduce students to many concepts of 
+weather and climate science, including:
 
-### Overview of the Next Generation Science Standards (NGSS)
+- Weather, including simulation and modeling
+- Reading and understanding maps
+- Data analysis and visualization
+- Communication of scientific findings
 
-The Next Generation Science Standards (NGSS) are designed to set expectations for the skills and knowledge K-12 students should be able to apply across different science disciplines. NGSS adopts a research-based approach to K-12 science education that affords educators the flexibility to design learning experiences that connect science to students’ interests and their everyday experiences. 
+### Overview of the Next-Generation Science Standards (NGSS)
 
-NGSS promotes a three-dimensional approach (3-D learning) to K-12 science 
-learning that includes: (a) Crosscutting Concepts, (b) Science and 
-Engineering Practices, and (c) Disciplinary Core Ideas. The three 
-dimensions are integral components of every NGSS standard; they work 
-together in order to allow K-12 students to develop a 
-rich understanding of science.
+The Next-Generation Science Standards (NGSS) are designed to standardize 
+expectations for skills and knowledge. Specifically, these standards list 
+the skills and knowledgs that K-12 students should be able to apply across 
+various science disciplines. NGSS utilizes a research-based approach to 
+K-12 science education. This approach allows educators to design more 
+creative and engaging learning experiences, and to connect science to the 
+individual interests and everyday life of each student. 
 
-A brief overview of the NGSS 3-D learning components is provided below 
-(more information can be found on the NGSS [official 
-website](https://www.nextgenscience.org)).
+NGSS promotes a three-dimensional approach to K-12 science learning, 
+called 3-D learning. This approach utilizes intersections between three 
+elements of learning: (a) Crosscutting Concepts, (b) Science 
+and Engineering Practices, and (c) Disciplinary Core Ideas. These three 
+elements, referred to as dimensions (hence the name "3-D learning"), are 
+integral components of every standard in NGSS. By using these dimensions 
+in science curricula, educators can provide K-12 students with a rich 
+understanding of science concepts.
 
-**Practices:** NGSS practices describe the real-world behaviors and engineering techniques that scientists adopt as they investigate and develop theories about the world around them. Examples include engineering design, scientific inquiry, problem solving, and computational thinking.
+A brief overview of the components (dimensions) of NGSS 3-D learning can 
+be found below. For more information, please visit the [NGSS official 
+website](https://www.nextgenscience.org).
 
-**Crosscutting Concepts:** These are bodies of knowledge and practices 
-that have application across all domains of science; they help students 
-develop a coherent view of the world. Examples include Measurement, 
-Energy/Matter, Systems, Structure, and Function. 
+**Practices:** Components of NGSS described as practices define real-world 
+behaviors and engineering techniques. Specifically, only behaviors and 
+techniques adopted by way of scientific investigation and theory can be 
+listed as NGSS practices. Examples of NGSS practices include 
+engineering-based design, scientific inquiry, problem-solving, and 
+computational thinking.
 
-**Disciplinary Core Ideas:** These are science-related content elements 
-and activities that have broad implications 
-across different fields, and are related to students’ real life 
-experiences. NGSS emphasizes that a core idea should meet at least two of the following four criteria:
+**Crosscutting Concepts:** NGSS crosscutting concepts are scientific 
+methods and bodies of knowledge that can be applied to any domain of 
+science. These concepts can help students develop a coherent and 
+scientifically sound view of the world. Examples of these concepts are 
+measurement, energy/matter, systems, structure, and function.
 
-1. Have broad importance across multiple science and engineering disciplines.
-1. Be connected to students’ interest and real life experiences.
-1. Can be taught and learned across multiple grades with increasing depth and breadth.
-1. Provide a key tool for investigating more complex ideas and solving problems.
+**Disciplinary Core Ideas:** NGSS core ideas are science-related content 
+elements and activities. In order to be considered NGSS core ideas, these 
+elements and activities must have broad implications across various 
+scientific fields, and must also be related to students' real-life 
+experiences. In addition, NGSS core ideas must meet at least two of these 
+four criteria:
 
-Disciplinary core ideas are grouped into four domains: (1) Physical sciences, (2) Earth and space sciences, (3) Life sciences, and (4) Engineering, technology, and application of science. 
+1. The idea must have broad importance across multiple science and 
+engineering disciplines.
+2. The idea must be connected to students' interests and real-life 
+experiences.
+3. The idea must be able to be taught and learned across multiple grade 
+levels, and with increasing depth and breadth.
+4. The idea must provide at least one key tool for investigating more 
+complex ideas, and/or for solving problems.
 
-While the concept of weather reasearch and forecasting is most related to 
-the earth and space sciences domain, its impacts cut across all four 
-domains identified above.
+Finally, NGSS disciplinary core ideas are grouped into four domains:
 
-The next sections provide an overview of NGSS's 3-D learning approach, 
-followed by some performance expectations that can be addressed using Pi-WRF at the middle and high school levels.
+- Physical sciences
+- Earth and space sciences
+- Life sciences
+- Engineering, technology, and application of science
+
+The Pi-WRF project focuses of the concept of weather research and 
+forecasting, which fits primarily within the Earth and space sciences 
+domain. However, it is important to realize that the impacts of weather 
+research and forecasting cut across all four domains identified above.
+
+The next sections provide NGSS standards for weather science at the middle 
+and high school levels, along with overviews of the NGSS 3-D learning 
+approach for each standard, as well as examples of the usage of Pi-WRF in 
+teaching these concepts.
 <br/>
 
 > **Note:**
 
-Since the concept and implication of weather cuts across most disciplines, we encourage educators to explore more ways that Pi-WRF can be used to achieve science standards across middle and high school grade levels.
+As stated above, the concept and implication of weather science cuts 
+across most science disciplines. Therefore, the Pi-WRF team encourages 
+middle and high school educators to explore ways that Pi-WRF can be used 
+to teach concepts relating to NGSS standards in other fields.
 
 <br/>
 <a class="ngss_lvl" href="/piwrf-teachingbox/pages/standards/middleschool.html">Middle School</a>

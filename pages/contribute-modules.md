@@ -4,23 +4,28 @@ title: Contribute Learning Modules
 ---
 
 # Contribute Teaching Boxes
-Do you have a lesson, concept, or activity that you are excited about? We 
+One of the main goals of the Pi-WRF project is to expand our offering of 
+teaching boxes to facilitate community scientific learning. As such, we 
 are always seeking contributions from teachers, students, and university 
-faculty. Our goal is to facilitate community development and sharing of 
-instructional modules, which can then be added to a community of Pi-WRF 
-teaching 
-modules. We encourage exploration and modification of existing Pi-WRF 
-lessons by educators, 
-university faculty, and of course geeks. This helps create new modules and 
-activities for the greater good of the Pi-WRF community, as well as the 
-scientific community in general.
+faculty. If you fall into one of these categories, and you have a lesson 
+or activity that fits your interests, you are encouraged to contribute to 
+Pi-WRF. The goal of the Pi-WRF project is the creation of a community 
+library of Pi-WRF teaching modules (teaching boxes). This is accomplished 
+through a community-development model that includes sharing and submission 
+of instructional modules. As part of this model, the Pi-WRF team 
+encourages the exploration and modification of existing Pi-WRF teaching 
+boxes. We are especially interested in teaching box modifications created 
+by educators, university faculty, and weather and computer geeks. This 
+contribution model helps advance the Pi-WRF community, as well as the 
+wider scientific community, by improving scientific curricula.
 
-To contribute a learning activity, click on the button below, then 
-complete 
-all 
-necessary fields in the Google form. Once your submission is 
-received, it will be reviewed 
-by our team. You will be notified via email when your teaching box is accepted and published on the website. 
+If you wish to contribute a lesson or learning activity, or other teaching 
+box content, click on the button below to reach the contribution Google 
+Form, then complete the form to finish the contribution. After you submit 
+a contribution, the Pi-WRF team will receive and review your submission. 
+If your submission is accepted, you will be notified via email, and your 
+submission will be converted into a teaching box and published on this 
+website.
 
 **Click the button below to start a submission.**<br>
 
