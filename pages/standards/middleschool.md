@@ -236,7 +236,7 @@ factors for both of these elements, including:<br/>
 <li>Findings of scientific research</li>
 <li>Differences in climate and natural resources</li>
 <li>Differences in economic conditions</li>
-</ul>
+</ul><br/>
 Thus, the use of technology for science can vary over 
 geographical and political regions as well as over time.</p></td> </tr> 
 </tbody>
