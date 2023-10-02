@@ -16,12 +16,28 @@ banner-button-url: ./pages/faq
 
 # PiWRF Teaching Boxes
 
-|   | Teaching Box | Description |
-<br/>
-| --| ------------ | ----------- |
-<br/>
-| [1](./pages/boxes/box1.html) |    Introduction | Set up Raspberry Pi, 
+<table>
+<tr>
+<td>  </td> 
+<td> Teaching Box </td>
+<td>  Description </td>
+</tr><tr>
+<td> --</td>
+<td> ------------ </td>
+<td> ----------- </td>
+</tr><tr>
+<td> [1](./pages/boxes/box1.html) </td>
+<td>    Introduction </td>
+<td> Set up Raspberry 
+Pi, 
 create users' Jupyter Notebook interface, run Pi-WRF, and use the 
-resulting data to create a forecast|
-<br/>
-| 2 |   Lifecycle of a forecast | Learn about how forecasts are made, and try out a student exercise to test your forecast performance against your local news source (coming soon)|
+resulting data to create a forecast</td>
+</tr><tr>
+<td> 2 </td>
+<td>   Lifecycle of a forecast </td>
+<td> Learn about how forecasts are 
+made, and 
+try out a student exercise to test your forecast performance against your 
+local news source (coming soon)</td>
+</tr>
+</table>
