@@ -16,8 +16,7 @@ and even change model settings.
 The instructions can be found in the first teaching box or at [https://github.com/NCAR/pi-wrf](https://github.com/NCAR/pi-wrf).
 
 
-### What is GitHub, and why is this project primarily distributed through 
-it?
+### What is GitHub, and why is this project primarily distributed through it?
 
 GitHub is a repository-hosting service that helps teams and the community 
 manage software development projects. Many of today's technology 
@@ -41,8 +40,7 @@ university faculty. You may email your submission to agbeli@ucar.edu; you
 can also send a submission as a GitHub pull request. To provide a 
 submission as a GitHub pull request, fork the GitHub repo, then make the 
 changes associated with your submission to the fork. You can then create a 
-pull request from the fork; you will receive messages from GitHub about 
-review about review, feedback, and acceptance of your submission. Once 
+pull request from the fork; you will receive messages from GitHub about review, feedback, and acceptance of your submission. Once 
 your teaching box is accepted, we will add it 
 to the Pi-WRF teaching box page, and acknowledge your contribution. 
 Creativity is a very important aspect of any curriculum. By contributing 

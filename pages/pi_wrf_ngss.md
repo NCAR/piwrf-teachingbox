@@ -68,7 +68,7 @@ weather and climate science, including:
 
 The Next-Generation Science Standards (NGSS) are designed to standardize 
 expectations for skills and knowledge. Specifically, these standards list 
-the skills and knowledgs that K-12 students should be able to apply across 
+the skills and knowledge that K-12 students should be able to apply across 
 various science disciplines. NGSS utilizes a research-based approach to 
 K-12 science education. This approach allows educators to design more 
 creative and engaging learning experiences, and to connect science to the 
@@ -123,7 +123,7 @@ Finally, NGSS disciplinary core ideas are grouped into four domains:
 - Life sciences
 - Engineering, technology, and application of science
 
-The Pi-WRF project focuses of the concept of weather research and 
+The Pi-WRF project focuses on the concept of weather research and 
 forecasting, which fits primarily within the Earth and space sciences 
 domain. However, it is important to realize that the impacts of weather 
 research and forecasting cut across all four domains identified above.

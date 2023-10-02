@@ -48,7 +48,7 @@ There are many elements that define weather, such as temperature,
 pressure, humidity, precipitation, and wind. Climate is the change in 
 these elements over time. It is important for students to be able to 
 demonstrate an understanding of weather and climate. This standard 
-emphasizes the need for students to show such an understanding. Is is 
+emphasizes the need for students to show such an understanding. It is 
 important for learners to understand that changes in weather are caused by 
 flow of air masses. Atmospheric air masses naturally flow from regions of 
 high air pressure to regions of low air pressure. Learners are also 
@@ -230,11 +230,13 @@ long-term, and either positive or negative.</p>
 <p>There are many different scientific uses of technology. There 
 are also many restrictions placed on such technology use, such as 
 political or economic restrictions. There are many driving 
-factors for both of these elements, including:
-- Individual or societal needs, desires, and values
-- Findings of scientific research
-- Differences in climate and natural resources
-- Differences in economic conditions
+factors for both of these elements, including:<br/>
+<ul>
+<li>Individual or societal needs, desires, and values</li>
+<li>Findings of scientific research</li>
+<li>Differences in climate and natural resources</li>
+<li>Differences in economic conditions</li>
+</ul>
 Thus, the use of technology for science can vary over 
 geographical and political regions as well as over time.</p></td> </tr> 
 </tbody>
