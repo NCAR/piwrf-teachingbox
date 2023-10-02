@@ -22,7 +22,7 @@ banner-button-url: ./pages/faq
 <td>Teaching Box</td>
 <td>Description</td>
 </tr><tr>
-<td><a href="pages/boxes/box1.html>1</a></td>
+<td><a href="pages/boxes/box1.html">1</a></td>
 <td>Introduction </td>
 <td>Set up Raspberry 
 Pi, 
